@@ -78,6 +78,23 @@
 
 ### Y-Axis Base :The Y-axis base serves as the lowermost structural component that supports the entire Y-axis assembly, including the print bed and its motion system. It is responsible for maintaining the stability and rigidity of the Y-axis movements during the 3D printing process.
 
+![Screenshot 2023-11-20 084359](https://github.com/hasnu0406/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/135305537/b61e1b6a-f22f-4ab8-94d0-d5dd674b261b)
+### Frame :The frame is the main structural chassis or skeleton of the 3D printer. It supports and houses all the necessary components, including motors, axes, extruders, and the print bed, in a fixed and stable configuration.
+
+### Y-Axis assembly :The Y-Axis assembly in a Cartesian 3D printer refers to the collective set of components and mechanisms responsible for the horizontal movement along the Y-axis. In Cartesian coordinate systems, the Y-axis typically represents lateral movement, and the Y-Axis assembly facilitates the controlled motion of the print bed or the entire print assembly in this direction
+
+### Z-Axis Assembly : The Z-Axis assembly in a Cartesian 3D printer refers to the collective set of components responsible for vertical movement along the Z-axis. In Cartesian coordinate systems, the Z-axis represents the vertical direction, and the Z-Axis assembly facilitates the controlled upward and downward motion of the print head or the entire print assembly
+
+### X-Axis Assembly : The X-Axis Assembly in a Cartesian 3D printer refers to the collection of components responsible for horizontal movement along the X-axis. In Cartesian coordinate systems, the X-axis typically represents lateral movement, and the X-Axis Assembly enables the controlled side-to-side motion of the print head or the entire print assembly
+
+### SMPS :In the context of a Cartesian 3D printer, "SMPS" stands for "Switched Mode Power Supply." An SMPS is a type of power supply that efficiently converts electrical power from one form to another. In a Cartesian 3D printer, an SMPS is typically used to provide the necessary power for the various electronic components and motors.
+
+### LCD :The LCD is an integral component of a Cartesian 3D printer, offering a convenient and accessible way for users to interact with and control the printer. It enhances the user experience by providing real-time information and control options during the 3D printing process.
+
+### Spool Holder :The spool holder is a practical component in Cartesian 3D printers, contributing to the reliability and smooth operation of the filament feeding system. A well-designed spool holder is essential for ensuring that the filament is dispensed consistently and without interruption during the entire 3D printing process.
+
+### Spool :The spool of filament is a critical component in Cartesian 3D printing, serving as the source material for creating 3D-printed objects. Proper handling, storage, and compatibility with the 3D printer are essential for achieving high-quality prints. Filament spools are available in various sizes and materials, providing users with flexibility and options for their 3D printing projects.
+
 ### Name: HASNA MUBARAK AZEEM
 ### Register Number: 23000568
 
